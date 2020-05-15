@@ -1,0 +1,7 @@
+.idea
+**/*.iml
+alf_data_dev
+*.class
+target
+*.log
+*.log.*
